@@ -30,9 +30,11 @@ Modular arithmetic
 Secure message transformation
 
 📂 Project Structure
+
 encryption_decryption.m  → Main MATLAB code
+
 KeyImage.jpg             → Key image used for key generation
-screenshots/             → Output images (optional)
+
 README.md                → Project documentation
 
 ▶️ How to Run
